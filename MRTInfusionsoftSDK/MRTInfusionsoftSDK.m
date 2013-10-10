@@ -360,7 +360,7 @@
 - (id)dataServiceEcho:(NSString *)text
 {
     NSArray *valuesArray = @[text];
-    return [self callServiceMethod:@"DataService.echo" withParameters:valuesArray];
+    return [self callServiceMethod:@"DataService.echo" withParameters:valuesArray useKey:NO];
 }
 
 // DataService.findByField

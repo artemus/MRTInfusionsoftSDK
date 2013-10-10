@@ -5,6 +5,9 @@ Based on the official [Infusionsoft API](http://help.infusionsoft.com/api-docs)
 
 Release Notes
 --------
+### 0.7.2 - 10 Oct 2013
+- Fixed DataService.echo implementation
+
 ### 0.7.1 - 09 Oct 2013
 - Fixed xcode implicit conversion warning for md5 method
 
