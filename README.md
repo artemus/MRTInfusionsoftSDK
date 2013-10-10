@@ -5,6 +5,9 @@ Based on the official [Infusionsoft API](http://help.infusionsoft.com/api-docs)
 
 Release Notes
 --------
+### 0.6.2 - 09 Oct 2013
+Fixed xcode implicit conversion warning for md5 method
+
 ### 0.6.1 - 07 Oct 2013
 - Added a few undocumented api methods that are present in the PHP SDK
 - Renamed Class and Xcode Project to MRTInfusionsoftSDK
